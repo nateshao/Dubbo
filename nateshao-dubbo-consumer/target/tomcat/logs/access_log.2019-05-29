@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:10:33 +0800] "GET /hello/sayHello.do?name=itcast HTTP/1.1" 500 12825 http-bio-8082-exec-1 86363
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:10:33 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8082-exec-3 2
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:11:21 +0800] "GET /hello/sayHello.do?name=itcast HTTP/1.1" 200 12 http-bio-8082-exec-5 64
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:11:22 +0800] "GET /hello/sayHello.do?name=itcast HTTP/1.1" 200 12 http-bio-8082-exec-7 5
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:11:22 +0800] "GET /hello/sayHello.do?name=itcast HTTP/1.1" 200 12 http-bio-8082-exec-9 7
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:14:40 +0800] "GET /hello/sayHello.do?name=itcast HTTP/1.1" 200 12 http-bio-8082-exec-1 587
