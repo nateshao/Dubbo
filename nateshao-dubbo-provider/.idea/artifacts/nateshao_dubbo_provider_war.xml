@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nateshao-dubbo-provider:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>nateshao-dubbo-provider</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="nateshao-dubbo-provider-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="nateshao-dubbo-provider:war exploded" />
+    </root>
+  </artifact>
+</component>
